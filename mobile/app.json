@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "ExpenseFlow",
+    "slug": "expenseflow",
+    "scheme": "expenseflow",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "backgroundColor": "#0F172A"
+    },
+    "android": {
+      "package": "com.expenseflow.app"
+    },
+    "ios": {
+      "bundleIdentifier": "com.expenseflow.app"
+    },
+    "plugins": ["expo-router"]
+  }
+}
